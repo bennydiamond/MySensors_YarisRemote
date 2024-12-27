@@ -7,7 +7,7 @@
 
 // Enable and select radio type attached
 #define MY_RADIO_RF24
-#define MY_RF24_PA_LEVEL RF24_PA_LOW
+#define MY_RF24_PA_LEVEL RF24_PA_HIGH
 #define MY_RF24_CHANNEL (125)
 #define MY_RF24_DATARATE (RF24_1MBPS)
 
